@@ -19,8 +19,6 @@ public class MainPrg {
 		Employee e2 = (Employee) factory.getBean("emp1");
 		System.out.println(e2);
 				
-		
-		/*hi this is for example.... heehhehehehhe*/
 	}
 
 }
